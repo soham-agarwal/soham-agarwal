@@ -22,8 +22,8 @@
 <br>
 <a href="https://linkedin.com/in/soham agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham agarwal" height="30" width="40" /></a>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham-agarwal&show_icons=true&locale=en&layout=compact" alt="soham-agarwal" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=soham-agarwal&show_icons=true&locale=en&layout=compact" alt="soham-agarwal" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soham-agarwal&show_icons=true&locale=en" alt="soham-agarwal" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=soham-agarwal&show_icons=true&locale=en" alt="soham-agarwal" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soham-agarwal&" alt="soham-agarwal" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=soham-agarwal&" alt="soham-agarwal" /></p>
